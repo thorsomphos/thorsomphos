@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-```yaml
+yaml
 name: Somphos Thor
 
 role: Network Engineer | IT Infrastructure
@@ -45,7 +45,7 @@ goals:
   - Build secure enterprise networks
   - Improve network automation skills
   - Become a Professional Network Engineer
-```
+
 
 ---
 
@@ -152,11 +152,11 @@ goals:
 | 🖥️ Windows Server Lab    | Windows Server      | AD DS, DNS, DHCP and user management                  |
 | 🌍 MikroTik Network       | RouterOS • WinBox   | Routing, DHCP, firewall and bandwidth management      |
 
----
+
 
 # 🧪 Networking Lab
 
-```text
+text
                          INTERNET
                             │
                             │
@@ -173,9 +173,9 @@ goals:
           ┌─────┼─────┐         ┌──┴──┐
           │     │     │         │     │
         VLAN10 VLAN20 Servers  Users   AP
-```
 
----
+
+
 
 # 🎯 Current Focus
 
@@ -187,7 +187,7 @@ goals:
 * 🤖 Developing **Python network automation**
 * 📊 Building network monitoring solutions
 
----
+
 
 # 📜 Certifications & Learning
 
@@ -211,7 +211,7 @@ goals:
 
 `Professional Network Engineer`
 
----
+
 
 # 📊 GitHub Analytics
 
